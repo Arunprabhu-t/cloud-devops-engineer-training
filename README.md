@@ -28,7 +28,10 @@
   - Medium - https://medium.com/@RajCloudX/azure-cloud-administration-d18482b891f8
   - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/6-azure-cloud
 
+## 7- AWS Cloud Administration - Hands On
+  - Medium - https://medium.com/@RajCloudX/aws-cloud-administration-685900dbc8b3
+  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/7-aws-cloud
 
-## 7- GITHUB Administration - Hands On
+## 8- GITHUB Administration - Hands On
   - Medium - https://medium.com/@RajCloudX/github-administration-973c2dfdec77
   - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/8-github
