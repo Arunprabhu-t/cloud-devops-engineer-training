@@ -8,4 +8,4 @@
 - Task 5 : Demonset in Kubernetes
 - Task 6: Init Containers in Kubernetes
 - Task 7: Ingress in Kubernetes
-- Task 6: Blue green deployment in Kubernetes
+- Task 8: Blue green deployment in Kubernetes
