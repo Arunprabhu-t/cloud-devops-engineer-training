@@ -2,6 +2,8 @@
 
 ## Complete Handson Free Training to help Job Seekers
 
+# Join whatsapp group to get more updates - https://wa.me/917200450509
+
 ## 1- DevOps Tools - Hands On
   - Medium - https://medium.com/@RajCloudX/devops-tools-installation-and-configuration-c8fbb53012d9
   - Medium - https://medium.com/@RajCloudX/devops-tools-zero-to-hero-6bd799ab9fe7
