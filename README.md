@@ -1,6 +1,6 @@
 # Cloud DevOps Engineer Free Handson Training
 
-## Training 1 
+## Complete Handson Free Training to help Job Seekers
 
 ## 1- DevOps Tools - Hands On
   - Medium - https://medium.com/@RajCloudX/devops-tools-installation-and-configuration-c8fbb53012d9
