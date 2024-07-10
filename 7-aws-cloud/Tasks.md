@@ -70,14 +70,15 @@ def lambda_handler(event, context):
             print('instance name: ' + str(instance))
 ```
 
-- Please input the below fileds under the environmental variables
-
+- Please input the above fileds under the environmental variables
+- Please make sure the above tags are linked to the ec2 instance
+  
 ```
 region: us-east-1
 tagname: env
 tagvalue: prod
 ```
-- Please make sure the above tags are linked to the ec2 instance
+
 - 
 ## Stop ec2
 
@@ -118,5 +119,6 @@ region: us-east-1
 tagname: env
 tagvalue: prod
 ```
-- Please make sure the above tags are linked to the ec2 instance 
+- Please input the above fileds under the environmental variables
+- Please make sure the above tags are linked to the ec2 instance
 
