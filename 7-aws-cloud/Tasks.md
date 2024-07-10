@@ -77,6 +77,7 @@ region: us-east-1
 tagname: env
 tagvalue: prod
 ```
+- under the below configuration change the function>Edit basic settings>timeout to 5 minutes 
 
 - Please input the below values under the Ec2 instance tags
 ```
@@ -118,21 +119,17 @@ def lambda_handler(event, context):
             print('stopped your instances: ' + str(i))
 ```
 
-- Please input the below fileds under the environmental variables
+- Please input the above fileds under the environmental variables
   
 ```
 region: us-east-1
 tagname: env
 tagvalue: prod
 ```
-
-  
+- under the below configuration change the function>Edit basic settings>timeout to 5 minutes 
 
 - Please input the below values under the Ec2 instance tags
-
 ```
 env: prod
 ```
-
-When creating a function, Please make sure you select the  existing role ec2 creation
-
+- When creating a function, Please make sure you select the  existing role ec2 creation
