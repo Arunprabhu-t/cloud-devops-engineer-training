@@ -140,5 +140,15 @@ env: prod
 Task 6: Database
 
 
+Task 7: Networking
+- Document attached 
 
+Task 8: ROUTE 53
+- Document attached
+
+Task 9: Application SAAS
+Have to practise 
+
+Task 10: Cost Management
+Have to practise 
 
