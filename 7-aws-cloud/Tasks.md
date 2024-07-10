@@ -1,6 +1,6 @@
 ## Task 2 : EC2 Deep Dive
 
-- Create 2 Ec2 isnatnces with server1 and server2
+- Create 2 Ec2 instance with server1 and server2
 - Select Key-pair aws-unix
 - Select the security group rangarajbk_allowall
 -  Add the below in user-data
@@ -69,7 +69,7 @@ def lambda_handler(event, context):
             print('instance name: ' + str(instance))
 ```
 
-Please input the below fileds under the environmental variables
+- Please input the below fileds under the environmental variables
 
 ```
 region: us-east-1
