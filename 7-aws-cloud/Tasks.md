@@ -71,7 +71,6 @@ def lambda_handler(event, context):
 ```
 
 - Please input the above fileds under the environmental variables
-- Please make sure the above tags are linked to the ec2 instance
   
 ```
 region: us-east-1
@@ -79,7 +78,12 @@ tagname: env
 tagvalue: prod
 ```
 
-- 
+- Please input the below values under the Ec2 instance tags
+```
+env: prod
+```
+- When creating a function, Please make sure you select the  existing role ec2 creation
+
 ## Stop ec2
 
 ```
@@ -114,14 +118,21 @@ def lambda_handler(event, context):
             print('stopped your instances: ' + str(i))
 ```
 
+- Please input the below fileds under the environmental variables
+  
 ```
 region: us-east-1
 tagname: env
 tagvalue: prod
 ```
-- Please input the above fileds under the environmental variables
-- Please make sure the above tags are linked to the ec2 instance
 
+  
 
-When creating a function, Please make sure you select the  existing role lamda-aws-ec2_stop*
+- Please input the below values under the Ec2 instance tags
+
+```
+env: prod
+```
+
+When creating a function, Please make sure you select the  existing role ec2 creation
 
