@@ -30,7 +30,7 @@ sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,ret
 Task 3: S3 Bucket
 
 Task 4: IAM
-
+****************************************************************************************************************************************
 Task 5: Lambda
 - create an ec2 instance on the AZ
 - Using  the lamda function we are going to stop and start the Ec2
@@ -136,7 +136,6 @@ env: prod
 - When creating a function, Please make sure you select the  existing role ec2 creation
 
 *************************************************************************************************************
-
 Task 6: Database
 
 
