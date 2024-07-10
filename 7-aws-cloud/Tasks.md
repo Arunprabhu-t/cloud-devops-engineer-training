@@ -122,3 +122,6 @@ tagvalue: prod
 - Please input the above fileds under the environmental variables
 - Please make sure the above tags are linked to the ec2 instance
 
+
+When creating a function, Please make sure you select the  existing role lamda-aws-ec2_stop*
+
