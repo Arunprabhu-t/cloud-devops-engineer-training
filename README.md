@@ -2,9 +2,10 @@
 
 ## Complete Handson Free Training to help Job Seekers
 
-# Join whatsapp group to get more updates - https://chat.whatsapp.com/C3d9VgfL8Fu8mnw90P4ZCy
+# Join whatsapp group to get more updates - https://chat.whatsapp.com/LsWNqQfeqdp6qtHnqsrj8T
 
-for more information - https://wa.me/917200450509
+
+for more information - https://wa.me/32471408908
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
