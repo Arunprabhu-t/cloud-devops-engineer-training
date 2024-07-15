@@ -521,7 +521,7 @@ ansible-playbook <playbook name>  --list-tags
 ```
 
 ```
-vim handlers.yaml
+vim handlers_tags.yaml
 ```
 
 
@@ -559,11 +559,11 @@ vim handlers.yaml
 
 
 ```
-ansible-playbook handlers.yaml  --list-tags
+ansible-playbook handlers_tags.yaml  --list-tags
 ```
 
 ```
-ansible-playbook handlers.yaml  --tags apache2
+ansible-playbook handlers_tags.yaml  --tags apache2
 ```
 
 - now only apache 2 tasks will be executed.
