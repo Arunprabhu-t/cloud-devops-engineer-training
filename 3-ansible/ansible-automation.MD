@@ -105,7 +105,9 @@ Perform the below steps only on ansible server
 
 ```
 ssh client1
-ssh client 2
+```
+```
+ssh client2
 ```
 
 
