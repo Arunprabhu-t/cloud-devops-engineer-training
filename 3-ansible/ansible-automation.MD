@@ -20,8 +20,9 @@ sudo apt install sshpass tree rpm vim -y
 
 # add DNS entries manually in all 3 nodes
 
+```
 vi /etc/hosts
-
+```
 ```
 10.128.15.203 client1
 10.128.15.204 client2
@@ -32,8 +33,9 @@ vi /etc/hosts
 
 in all 3 machines go to /etc/ssh/sshd_config file using vim editor.
 
+```
 vim /etc/ssh/sshd_config
-
+```
 ```
 PasswordAuthentication yes
 
