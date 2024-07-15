@@ -149,9 +149,9 @@ become_ask_pass=False
 vim hosts
 ```
 ```
-[prod]
+[dev1]
 client1
-[backup]
+[dev2]
 client2
 
 ```
