@@ -8,14 +8,14 @@
 sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository --yes --update ppa:ansible/ansible
-sudo apt install ansible rpm tree vim
+sudo apt install ansible rpm tree vim -y 
 ```
 
 ## Run the command on Client1 and Client2 server
 
 ```
 sudo apt update
-sudo apt install sshpass tree rpm vim
+sudo apt install sshpass tree rpm vim -y
 ```
 
 # add DNS entries manually in all 3 nodes
