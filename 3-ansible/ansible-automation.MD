@@ -235,10 +235,13 @@ source ~/.vimrc
 ## Step 1 : ansible-doc
 
 - to check the ansible doc contents
+
 ```
 ansible-doc -l
 ```
+
 - to check the contents word count 
+
 ```
 ansible-doc -l | wc -l
 ```
@@ -669,7 +672,7 @@ ansible webservers -m file -a "dest=/var/tmp/testing state=absent"
 
 Here are the commands you can use to get the uptime. All three commands would yield you the same results.
 
-``
+```
 ansible all -m command -a uptime 
 ansible all -m shell -a uptime 
 ansible all -a uptime
