@@ -90,6 +90,11 @@ ssh-keygen
 
 ```
 ssh-copy-id client1
+```
+```
+ranga12345
+```
+```
 ssh-copy-id client2
 ```
 
