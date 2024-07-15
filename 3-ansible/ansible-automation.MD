@@ -650,7 +650,8 @@ ansible all -m copy -a "src=/var/tmp/test.txt dest=/var/tmp/testing.txt"
 
 ### File Transfer
 
-- The file module allows changing ownership and permissions on files. These same options can be passed directly to the copy module as well:
+- The file module allows changing ownership and permissions on files. These same options can be 
+  passed directly to the copy module as well:
 
 ```
 ansible webservers -m file -a "dest=/var/tmp/testing.txt mode=600"
@@ -697,16 +698,15 @@ ansible all -m shell -a "cat /proc/meminfo|head -2"
 ```
 ansible all -m group -a "name=weblogic state=present" 
 ```
-**************************************************************************************************************************
 
-- ad hoc command to Create a unix user
+- adhoc command to Create a unix user
 
 ```
 ansible all -m user -a "name=weblogic group=weblogic" -b
 ```
 
 
-## Step 14 : Copy files from ansible server to clients
+## Step 15 : Copy files from ansible server to clients
 
 ```
 vim copy.yaml
@@ -727,7 +727,7 @@ vim copy.yaml
       backup: yes
 ```
 
-## Step 15 : Copy files between the client machines using the remote_src command
+## Step 16 : Copy files between the client machines using the remote_src command
 
 - Ansible copy allows you to copy the files from one directory to another on the same remote machine. But this is only for files, not for the directories. You can use the remote_src parameter to let Ansible know your intentions.
 
@@ -753,7 +753,7 @@ vim copy.yaml
 - remote_src option is very important
 
 
-## Step 16 - Ansible Register
+## Step 17 - Ansible Register
 
 - **condition** 
 - need to check the package
