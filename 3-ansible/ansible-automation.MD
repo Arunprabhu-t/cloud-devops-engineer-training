@@ -69,7 +69,7 @@ visudo
 ansible	ALL=(ALL:ALL) NOPASSWD: ALL
 ```
 
-- in ubuntu press ctrl + o and then press enter to write   /////////   to exit press ctrl +  x
+- in ubuntu press ctrl + o and then press enter to write , to exit press ctrl +  x
 
 
 ## Login as ansible user into ansible server 
