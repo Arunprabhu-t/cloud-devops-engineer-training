@@ -62,6 +62,10 @@ ranga12345
 - Run visudo command
 
 ```
+visudo
+```
+
+```
 ansible	ALL=(ALL:ALL) NOPASSWD: ALL
 ```
 
