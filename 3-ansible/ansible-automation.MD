@@ -53,8 +53,10 @@ systemctl restart sshd
 adduser ansible
 ```
 
-- Enter the password as ranga12345
-
+- Enter the password as 
+```
+ranga12345
+```
 ## Login to all servers and enable sudo permission for ansible user with no password
 
 - Run visudo command
