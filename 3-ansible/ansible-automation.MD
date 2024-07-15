@@ -638,7 +638,7 @@ ansible all -m shell -a 'echo $TERM'
 
 ```
 echo "my name is rangaraj" > /var/tmp/test.txt
-
+```
 ```
 ansible all -m copy -a "src=/var/tmp/test.txt dest=/var/tmp/testing.txt"
 ```
